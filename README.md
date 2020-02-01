@@ -45,6 +45,7 @@
 - [[ENG] www/Dafont](https://www.dafont.com/)
 - [[ENG] www/FontSquirrel](https://www.fontsquirrel.com/)
 - [[ENG] www/FreeFonts](http://www.free-fonts-download.com/)
+- [[ENG] www/Rentafont](https://rentafont.com/)
 
 ### ★ Zdjęcia, filmy (stocki)
 - --
